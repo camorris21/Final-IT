@@ -56,3 +56,64 @@ Before we get started on the downloading process , we will first go over the key
 | class    | False   | in     | pass     | yield |
 | continue | finally | is     | raise    |       |
 | def      | for     | lambda |          |       |
+
+Although these words may not mean much to you now, as you continue your Python journey they will quickly become your best friends! 
+
+
+# Downloading Process MacOS
+
+To begin the downloading process for MacOS, click this link.  https://www.python.org/downloads/. 
+
+You will then be taken to a website where your screen should appear like this
+
+**image 1**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# What now?
+If you enjoyed this tutorial and would like to further your Python knowledge there are an unlimited amount of resources that will help you do so! 
+
+**Additional Resources**
+
+Book
+-----
+* Starting out with Python https://www.amazon.com/Starting-Out-Python-Tony-Gaddis/dp/0134444329/ref=sr_1_1?ie=UTF8&qid=1544154831&sr=8-1&keywords=starting+out+with+python 
+
+Articles
+-------
+* What is python? https://www.python.org/doc/essays/blurb/ 
+* What is python? https://en.wikipedia.org/wiki/Python_(programming_language) 
+* How to download Python: https://realpython.com/installing-python/ 
+
+
+Videos
+-------
+* Writing your first program: https://www.youtube.com/watch?v=1Xml6EIIKh0&feature=youtu.be 
+Python Tutorials: (both articles and videos included) https://pythonprogramming.net/introduction-to-python-programming/ 
+
