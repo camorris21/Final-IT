@@ -4,13 +4,13 @@
 
 The purpose of this tutorial is to give a brief explanation of Python, as well as get you on your way to writing you first line of code! This tutorial will be beneficial for those who know little to nothing about the language but would like to expand their knowledge and briefly explore the awesome things that Python has to offer! The main focus is to take you through the downloading process of Python Idle, however, there will be several topics covered (many of which are strictly BASIC coverings and will NOT go into depth). Some of the following topics will be covered:
 
-*What is Python?
-*Who uses Python? 
-*Pros and Cons
-*Some basic terms used in Python
-*Downloading Process
-*How to write your first line of code! 
-*Additional Python links
+* What is Python?
+* Who uses Python? 
+* Pros and Cons
+* Some basic terms used in Python
+* Downloading Process
+* How to write your first line of code! 
+* Additional Python links
 
 
 # What is Python?
@@ -23,9 +23,9 @@ Python can be used for a variety of things, making it a general purpose language
 
 Python is best for creating solutions to complex issues quickly and efficiently. Plenty of large and popular companies use python in some way, including, but not limited to: 
 
-*Instagram
-*Amazon
-*Facebook
-*Google
-*YouTube
-*NASA
+* Instagram
+* Amazon
+* Facebook
+* Google
+* YouTube
+* NASA
