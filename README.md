@@ -29,3 +29,13 @@ Python is best for creating solutions to complex issues quickly and efficiently.
 * Google
 * YouTube
 * NASA
+
+
+
+| Pros                                                  | Cons                                                                               |
+|-------------------------------------------------------|------------------------------------------------------------------------------------|
+| Easy to learn and read for beginners                  | Not good for mobile development                                                    |
+| Supports multiple systems                             | Not a good choice for memory intensive tasks.                                      |
+| A large number of resources are available for Python. | Not ideal in game development. Extremely difficult to build a high-graphic 3D game |
+
+
