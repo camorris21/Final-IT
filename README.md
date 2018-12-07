@@ -123,6 +123,7 @@ When you first launch Python idle, the Python Shell will appear. This is where y
 If you are wanting to write a program that can be executed when you want, you are going to have to write the code and save it as a file. To do so, you go to file in the upper left hand corner of the screen and click “New file.” When you do that, a blank window will appear as shown below. 
 
 ![Image12](pythonpics/image12.png)
+
 ![Image17](pyhtonpics/image17.png)
 
 
