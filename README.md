@@ -39,3 +39,20 @@ Python is best for creating solutions to complex issues quickly and efficiently.
 | A large number of resources are available for Python. | Not ideal in game development. Extremely difficult to build a high-graphic 3D game |
 
 
+
+In summary, Python is not the best choice when it comes to large scale mobile/game development. However, it has a range of potential uses and is great first language to learn for those who are new to programming (which, if you are reading this, you likely are!).
+
+
+Before we get started on the downloading process , we will first go over the keywords of Python
+
+# Python Keywords
+
+|          |         |        |          |       |
+|----------|---------|--------|----------|-------|
+| and      | del     | from   | None     | True  |
+| as       | elif    | global | nonlocal | try   |
+| assert   | else    | if     | not      | while |
+| break    | except  | import | or       | with  |
+| class    | False   | in     | pass     | yield |
+| continue | finally | is     | raise    |       |
+| def      | for     | lambda |          |       |
