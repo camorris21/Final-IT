@@ -118,8 +118,7 @@ When you first launch Python idle, the Python Shell will appear. This is where y
 If you are wanting to write a program that can be executed when you want, you are going to have to write the code and save it as a file. To do so, you go to file in the upper left hand corner of the screen and click “New file.” When you do that, a blank window will appear as shown below. 
 
 ![Image12](pythonpics/image12.png)
-
-another giles goes here
+![Image17](pyhtonpics/image17.png)
 
 
 Before typing your code, you are going to want to save the file and give it an appropriate title. In this case, we will name our file HelloWorld. You can save your file to any document you would like, but I would strongly recommend making a New Folder and storing your file inside. 
