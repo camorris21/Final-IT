@@ -115,5 +115,5 @@ Articles
 Videos
 -------
 * Writing your first program: https://www.youtube.com/watch?v=1Xml6EIIKh0&feature=youtu.be 
-Python Tutorials: (both articles and videos included) https://pythonprogramming.net/introduction-to-python-programming/ 
+* Python Tutorials: (both articles and videos included) https://pythonprogramming.net/introduction-to-python-programming/ 
 
