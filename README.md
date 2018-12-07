@@ -68,31 +68,73 @@ You will then be taken to a website where your screen should appear like this
 
 **image 1**
 
+You will then want to click “Download Python 3.7.1” 
+
+**image 2**
+
+Python will then begin its download in the upper right hand corner of your screen 
+
+**image 3**
+
+When the download is complete, double click “Python- 3.7.1-macosx10.9.pkg” and a pop up will appear 
+
+**image 4**
+
+Click continue and read all of the necessary information. (it should walk you through it) and when completed, your screen should look like this 
+
+**image 5**
+
+Click “Close” and then “move to trash”
+
+**image 6**
+
+Open finder on your macbook and go to Applications and locate the Python 3.7 folder
+
+**image 7 and 8**
+
+Once opened, locate the Idle icon and double click
+
+**image 9**
+
+Once launched, you have completed downloading Python Idle! 
+
+**image 10**
 
 
 
+# How to write first line of code
 
+Now that you have Python Idle up and running, it is time to write your first line of code! A typical first program is called the “Hello World!” program. 
 
+**Before we begin… History on “Hello world!”**
+Although there is no record on when the program was first used, it is a program that is very simple to write in almost all programming languages.  It is oftentimes the first program that people learning a new language write and is used to illustrate the basic syntax of a programming language. It is used to test things out to make sure that the computer language is installed correctly. According to Wikipedia it was influenced by an example program in the book “The C Programming Language.” 
 
+**Now we begin!**
+When you first launch Python idle, the Python Shell will appear. This is where you can enter python code in interactive mode (define with link).  This means that you can type lines of code and press enter and they will immediately be displayed. The code written in the python shell will not be saved. It is a great place to learn how python statements execute. See image below 
 
+**image 11**
 
+If you are wanting to write a program that can be executed when you want, you are going to have to write the code and save it as a file. To do so, you go to file in the upper left hand corner of the screen and click “New file.” When you do that, a blank window will appear as shown below. 
 
+**image 12 and 13**
 
+Before typing your code, you are going to want to save the file and give it an appropriate title. In this case, we will name our file HelloWorld. You can save your file to any document you would like, but I would strongly recommend making a New Folder and storing your file inside. 
 
+**image 14**
 
+Now that you have your file saved, you can begin typing your first line of code. You will want to begin by using the print function and typing print(‘Hello World!’) as shown below. 
 
+**image 15**
 
+Save the file when you finish writing the code.  To run the program you go to Run at the upper left hand corner of your screen and go to “Run Module.”
 
+**image 16**
 
+After you do that, you have officially written your first line of code!!
 
+**image 17**
 
-
-
-
-
-
-
-
+**CONGRATULATIONS!!!  You have started your journey to becoming a great programmer!**
 
 
 
