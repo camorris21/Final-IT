@@ -20,6 +20,7 @@ Python is a beginner-friendly, high-level programming language. Because Python i
 # Who uses Python?
 
 Python can be used for a variety of things, making it a general purpose language. For example, some use python to write scripts, develop web pages, or analyze data, while others use it to put in robots or for math/machine learning. 
+https://www.quora.com/What-is-Python-primarily-used-for  
 
 Python is best for creating solutions to complex issues quickly and efficiently. Plenty of large and popular companies use python in some way, including, but not limited to: 
 
@@ -30,6 +31,7 @@ Python is best for creating solutions to complex issues quickly and efficiently.
 * YouTube
 * NASA
 
+https://www.quora.com/What-top-tier-companies-use-Python 
 
 
 | Pros                                                  | Cons                                                                               |
@@ -38,6 +40,7 @@ Python is best for creating solutions to complex issues quickly and efficiently.
 | Supports multiple systems                             | Not a good choice for memory intensive tasks.                                      |
 | A large number of resources are available for Python. | Not ideal in game development. Extremely difficult to build a high-graphic 3D game |
 
+https://www.supinfo.com/articles/single/3425-the-pros-and-cons-of-python 
 
 
 In summary, Python is not the best choice when it comes to large scale mobile/game development. However, it has a range of potential uses and is great first language to learn for those who are new to programming (which, if you are reading this, you likely are!).
@@ -108,10 +111,12 @@ Once launched, you have completed downloading Python Idle!
 Now that you have Python Idle up and running, it is time to write your first line of code! A typical first program is called the “Hello World!” program. 
 
 **Before we begin… History on “Hello world!”**
+
 Although there is no record on when the program was first used, it is a program that is very simple to write in almost all programming languages.  It is oftentimes the first program that people learning a new language write and is used to illustrate the basic syntax of a programming language. It is used to test things out to make sure that the computer language is installed correctly. According to Wikipedia it was influenced by an example program in the book “The C Programming Language.” 
 
 **Now we begin!**
-When you first launch Python idle, the Python Shell will appear. This is where you can enter python code in interactive mode (define with link).  This means that you can type lines of code and press enter and they will immediately be displayed. The code written in the python shell will not be saved. It is a great place to learn how python statements execute. See image below 
+
+When you first launch Python idle, the Python Shell will appear. This is where you can enter python code in interactive mode.  This means that you can type lines of code and press enter and they will immediately be displayed. The code written in the python shell will not be saved. It is a great place to learn how python statements execute. See image below 
 
 ![Image11](pythonpics/image11.png)
 
@@ -133,7 +138,7 @@ Save the file when you finish writing the code.  To run the program you go to Ru
 
 ![Image15](pythonpics/image15.png)
 
-After you do that, you have officially written your first line of code!!
+After you do that, you have officially written and executed your first line of code!!
 
 ![Image16](pythonpics/image16.png)
 
