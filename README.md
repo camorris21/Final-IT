@@ -66,7 +66,7 @@ To begin the downloading process for MacOS, click this link.  https://www.python
 
 You will then be taken to a website where your screen should appear like this
 
-**image 1**
+![Screenshot](image1.png)
 
 You will then want to click “Download Python 3.7.1” 
 
